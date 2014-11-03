@@ -1,3 +1,5 @@
+Add1
 alsdfjalkdsjflk
-
-changed
+Add2 (was blank row before)
+Removed a line
+Add3
